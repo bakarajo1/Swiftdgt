@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Swiftdgt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Swiftdgt_jar</output-path>
+    <root id="archive" name="Swiftdgt.jar">
+      <element id="module-output" name="Swiftdgt" />
+    </root>
+  </artifact>
+</component>
